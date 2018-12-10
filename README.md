@@ -15,7 +15,7 @@ Read more: http://sims4studio.com/post/85791#ixzz5ZHx5fT99
 ![Road-To-Fame8](https://sacrificialmods.com/assets/0.4a-thumbnail.jpg)
 
 
-Only Mod is transalation This 
+Cracter Mod transalation THAI  
 ===============================
 https://www.facebook.com/SimsColony
 =====================================
