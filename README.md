@@ -3,7 +3,7 @@
 | SIMSCOLONY| Road-To-Fame-ภาษาไทย |
 | ------------- | ------------- |
 | WickedWhims V25| [ดาวโหลดแปล Road-To-Fame-ภาษาไทย](https://github.com/simcolony/Road-To-Fame-Traditional-THAI/raw/master/Road_To_Fame_Thai_V6.package) |
-| simfileshare V25 | [simfileshare Road-To-Fame-ภาษาไทย](*) |
+| simfileshare V25 | [simfileshare Road-To-Fame-ภาษาไทย](http://simfileshare.net/folder/75365/) |
 
 ![Road-To-Fame-V6](https://i.imgur.com/EAZXeVW.jpg)
 ![Road-To-Fame-V6](https://i.imgur.com/ZhEhYOy.jpg)
