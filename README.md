@@ -7,7 +7,8 @@
 | ตัวเล่น Road To Fame -MOD- V 0.5 A Street Dancing| [ดาวโหลดแปล Road-To-Fame-ภาษาไทย](https://github.com/simcolony/Road-To-Fame-Traditional-THAI/raw/master/Road_To_Fame_Thai_V7.package) |
 | แปลไทย Road To Fa| [ดาวโหลดแปล Road-To-Fame-ภาษาไทย](https://github.com/simcolony/Road-To-Fame-Traditional-THAI/raw/master/Road_To_Fame_Thai_V7.package) |
 | simfileshare Road-To-Fam V6 | [simfileshare Road-To-Fame-ภาษาไทย]() |
-ข่าวสารเพิ่มเติม
+
+### ข่าวสารเพิ่มเติม
 https://sacrificialmods.com/road-to-fame-news.html
 
 ## SS
@@ -23,7 +24,8 @@ https://sacrificialmods.com/road-to-fame-news.html
 
 
 # NEWS
-ทักษะ
+
+ทักษะใหม่
 
 -Dance Moves:
   - Twist Dance (Level 1)
