@@ -4,8 +4,8 @@
 
 | SIMSCOLONY| Road-To-Fame-ภาษาไทย |
 | ------------- | ------------- |
-| Road To Fame -MOD- V 0.5 A Street Dancing| [ดาวโหลดแปล Road-To-Fame-ตัวเล่น](https://sacrificialmods.com/road-to-fame-news.htm) |
-| แปลไทย Road To Fa| [ดาวโหลดแปล Road-To-Fame-ภาษาไทย](https://github.com/simcolony/Road-To-Fame-Traditional-THAI/raw/master/Road_To_Fame_Thai_V7.package) |
+| Road To Fame -MOD- V 0.5 A Street Dancing| [Road-To-Fame-ตัวเล่น](https://sacrificialmods.com/road-to-fame-news.htm) |
+| แปลไทย Road To Fa| [แปลไทย Road-To-Fame](https://github.com/simcolony/Road-To-Fame-Traditional-THAI/raw/master/Road_To_Fame_Thai_V7.package) |
 
 
 ### ข่าวสารเพิ่มเติม
