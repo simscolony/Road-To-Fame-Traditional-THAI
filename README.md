@@ -4,7 +4,7 @@
 
 | SIMSCOLONY| Road-To-Fame-ภาษาไทย |
 | ------------- | ------------- |
-| ตัวเล่น Road To Fame -MOD- V 0.5 A Street Dancing| [ดาวโหลดแปล Road-To-Fame-ภาษาไทย](https://github.com/simcolony/Road-To-Fame-Traditional-THAI/raw/master/Road_To_Fame_Thai_V7.package) |
+| ตัวเล่น Road To Fame -MOD- V 0.5 A Street Dancing| [ดาวโหลดแปล Road-To-Fame-ภาษาไทย](https://github.com/simscolony/Road-To-Fame-Traditional-THAI/raw/master/%5BSIMSCOLONY%5D_ROAD_To_FAME_V6_TH.package) |
 | แปลไทย Road To Fa| [ดาวโหลดแปล Road-To-Fame-ภาษาไทย](https://github.com/simcolony/Road-To-Fame-Traditional-THAI/raw/master/Road_To_Fame_Thai_V7.package) |
 | simfileshare Road-To-Fam V6 | [simfileshare Road-To-Fame-ภาษาไทย]() |
 
@@ -14,6 +14,8 @@ https://sacrificialmods.com/road-to-fame-news.html
 ## SS
 
 ![Road-To-Fame-V6](https://i.imgur.com/EAZXeVW.jpg)
+![Road-To-Fame-V6](https://github.com/simscolony/Road-To-Fame-Traditional-THAI/blob/master/Road_To_Fame_5/Road_To_Fame_5C.jpg?raw=true)
+![Road-To-Fame-V6](https://github.com/simscolony/Road-To-Fame-Traditional-THAI/blob/master/Road_To_Fame_5/Road_To_Fame_5B.jpg?raw=true)
 ![Road-To-Fame-V6](https://i.imgur.com/ZhEhYOy.jpg)
 ![Road-To-Fame-V6](https://i.imgur.com/nP250QA.jpg)
 ![Road-To-Fame-V6](https://i.imgur.com/JjXCuRt.jpg)
