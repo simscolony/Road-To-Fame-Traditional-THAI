@@ -1,13 +1,12 @@
 # Road-To-Fame-ภาษาไทย
 ![Road-To-Fame-V6](https://sacrificialmods.com/images/road%20to%20fame%20-mod-%20v%2005%20thumbnail%20transparent2.png?crc=4147684601)
 
-## รองรับ Road To Fame -MOD- V 0.5 A Street Dancing แปล 100%
-
+## รองรับ Road To Fame -MOD- V 0.5 A Street Dancing - แปล 100%
 
 | SIMSCOLONY| Road-To-Fame-ภาษาไทย |
 | ------------- | ------------- |
 | Road To Fame -MOD- V 0.5 A Street Dancing| [Road-To-Fame-ตัวเล่น](https://sacrificialmods.com/road-to-fame-news.htm) |
-| แปลไทย Road To Fa| [แปลไทย Road-To-Fame](https://github.com/simscolony/Road-To-Fame-Traditional-THAI/raw/master/%5BSIMSCOLONY%5D_ROAD_To_FAME_V7_TH.packagee) |
+| แปลไทย Road To Fa| [แปลไทย Road-To-Fame V7](https://github.com/simscolony/Road-To-Fame-Traditional-THAI/raw/master/%5BSIMSCOLONY%5D_ROAD_To_FAME_V7_TH.packagee) |
 
 
 ### ข่าวสารเพิ่มเติม
